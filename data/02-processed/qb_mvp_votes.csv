@@ -1,0 +1,88 @@
+Rk,Pos,Player,Tm,1st_Place_Votes,Share,G,GS,Cmp,Att,Yds,TD,Int,year
+2,QB,Donovan McNabb,Philadelphia Eagles,11.0,0.22,16,16,330,569,3365,21,13,2000
+4,QB,Rich Gannon,Oakland Raiders,5.0,0.1,16,16,284,473,3430,28,11,2000
+6,QB,Peyton Manning,Indianapolis Colts,1.0,0.02,16,16,357,571,4413,33,15,2000
+1,QB,Kurt Warner,St. Louis Rams,21.5,0.43,16,16,375,546,4830,36,22,2001
+3,QB,Brett Favre,Green Bay Packers,5.0,0.1,16,16,314,510,3921,32,15,2001
+4,QB,Kordell Stewart,Pittsburgh Steelers,4.0,0.08,16,16,266,442,3109,14,11,2001
+1,QB,Rich Gannon,Oakland Raiders,19.0,0.3958333333333333,16,16,418,618,4689,26,10,2002
+2,QB,Brett Favre,Green Bay Packers,15.0,0.3125,16,16,341,551,3658,27,16,2002
+3,QB,Steve McNair,Tennessee Titans,11.0,0.22916666666666666,16,16,301,492,3387,22,15,2002
+6,QB,Michael Vick,Atlanta Falcons,1.0,0.020833333333333332,15,15,231,421,2936,16,8,2002
+1,QB,Peyton Manning,Indianapolis Colts,16.0,0.32,16,16,379,566,4267,29,10,2003
+2,QB,Steve McNair,Tennessee Titans,16.0,0.32,14,14,250,400,3215,24,7,2003
+3,QB,Tom Brady,New England Patriots,8.0,0.16,16,16,317,527,3620,23,12,2003
+1,QB,Peyton Manning,Indianapolis Colts,47.0,0.9791666666666666,16,16,336,497,4557,49,10,2004
+2,QB,Michael Vick,Atlanta Falcons,1.0,0.020833333333333332,15,15,181,321,2313,14,12,2004
+2,QB,Peyton Manning,Indianapolis Colts,13.0,0.26,16,16,305,453,3747,28,10,2005
+3,QB,Tom Brady,New England Patriots,10.0,0.2,16,16,334,530,4110,26,14,2005
+5,QB,Carson Palmer,Cincinnati Bengals,2.0,0.04,16,16,345,509,3836,32,12,2005
+2,QB,Drew Brees,New Orleans Saints,4.0,0.08,16,16,356,554,4418,26,11,2006
+3,QB,Peyton Manning,Indianapolis Colts,2.0,0.04,16,16,362,557,4397,31,9,2006
+1,QB,Tom Brady,New England Patriots,49.0,0.98,16,16,398,578,4806,50,8,2007
+2,QB,Brett Favre,Green Bay Packers,1.0,0.02,16,16,356,535,4155,28,15,2007
+1,QB,Peyton Manning,Indianapolis Colts,32.0,0.64,16,16,371,555,4002,27,12,2008
+2,QB,Chad Pennington,Miami Dolphins,4.0,0.08,16,16,321,476,3653,19,7,2008
+6,QB,Philip Rivers,San Diego Chargers,2.0,0.04,16,16,312,478,4009,34,11,2008
+8,QB,Kurt Warner,Arizona Cardinals,1.0,0.02,16,16,401,598,4583,30,14,2008
+1,QB,Peyton Manning,Indianapolis Colts,39.5,0.79,16,16,393,571,4500,33,16,2009
+2,QB,Drew Brees,New Orleans Saints,7.5,0.15,15,15,363,514,4388,34,11,2009
+3,QB,Philip Rivers,San Diego Chargers,2.0,0.04,16,16,317,486,4254,28,9,2009
+4,QB,Brett Favre,Minnesota Vikings,1.0,0.02,16,16,363,531,4202,33,7,2009
+1,QB,Tom Brady,New England Patriots,50.0,1.0,16,16,324,492,3900,36,4,2010
+1,QB,Aaron Rodgers,Green Bay Packers,48.0,0.96,15,15,343,502,4643,45,6,2011
+2,QB,Drew Brees,New Orleans Saints,2.0,0.04,16,16,468,657,5476,46,14,2011
+2,QB,Peyton Manning,Denver Broncos,19.5,0.39,16,16,400,583,4659,37,11,2012
+1,QB,Peyton Manning,Denver Broncos,49.0,0.98,16,16,450,659,5477,55,10,2013
+2,QB,Tom Brady,New England Patriots,1.0,0.02,16,16,380,628,4343,25,11,2013
+1,QB,Aaron Rodgers,Green Bay Packers,31.0,0.62,16,16,341,520,4381,38,5,2014
+4,QB,Tony Romo,Dallas Cowboys,2.0,0.04,15,15,304,435,3705,34,9,2014
+5,QB,Tom Brady,New England Patriots,1.0,0.02,16,16,373,582,4109,33,9,2014
+1,QB,Cam Newton,Carolina Panthers,48.0,0.96,16,16,296,495,3837,35,10,2015
+2,QB,Tom Brady,New England Patriots,1.0,0.02,16,16,402,624,4770,36,7,2015
+3,QB,Carson Palmer,Arizona Cardinals,1.0,0.02,16,16,342,537,4671,35,11,2015
+1,QB,Matt Ryan,Atlanta Falcons,25.0,0.5,16,16,373,534,4944,38,7,2016
+2,QB,Tom Brady,New England Patriots,10.0,0.2,12,12,291,432,3554,28,2,2016
+3,QB,Derek Carr,Oakland Raiders,6.0,0.12,15,15,357,560,3937,28,6,2016
+5,QB,Aaron Rodgers,Green Bay Packers,2.0,0.04,16,16,401,610,4428,40,7,2016
+6,QB,Dak Prescott,Dallas Cowboys,1.0,0.02,16,16,311,459,3667,23,4,2016
+1,QB,Tom Brady,New England Patriots,40.0,0.8,16,16,385,581,4577,32,8,2017
+3,QB,Carson Wentz,Philadelphia Eagles,2.0,0.04,13,13,265,440,3296,33,7,2017
+1,QB,Patrick Mahomes,Kansas City Chiefs,41.0,0.82,16,16,383,580,5097,50,12,2018
+2,QB,Drew Brees,New Orleans Saints,9.0,0.18,15,15,364,489,3992,32,5,2018
+1,QB,Lamar Jackson,Baltimore Ravens,50.0,1.0,15,15,265,401,3127,36,6,2019
+1,QB,Aaron Rodgers,Green Bay Packers,44.0,0.88,16,16,372,526,4299,48,5,2020
+2,QB,Josh Allen,Buffalo Bills,4.0,0.08,16,16,396,572,4544,37,10,2020
+3,QB,Patrick Mahomes,Kansas City Chiefs,2.0,0.04,15,15,390,588,4740,38,6,2020
+1,QB,Aaron Rodgers,Green Bay Packers,39.0,0.78,16,16,366,531,4115,37,4,2021
+2,QB,Tom Brady,Tampa Bay Buccaneers,10.0,0.2,17,17,485,719,5316,43,12,2021
+1,QB,Patrick Mahomes,Kansas City Chiefs,48.0,0.96,17,17,435,648,5250,41,12,2022
+2,QB,Jalen Hurts,Philadelphia Eagles,1.0,0.02,15,15,306,460,3701,22,6,2022
+3,QB,Josh Allen,Buffalo Bills,1.0,0.02,16,16,359,567,4283,35,14,2022
+4,QB,Joe Burrow,Cincinnati Bengals,,,16,16,414,606,4475,35,12,2022
+7,QB,Trevor Lawrence,Jacksonville Jaguars,,,17,17,387,584,4113,25,8,2022
+10,QB,Justin Fields,Chicago Bears,,,15,15,192,318,2242,17,11,2022
+12,QB,Justin Herbert,Los Angeles Chargers,,,17,17,477,699,4739,25,10,2022
+14,QB,Geno Smith,Seattle Seahawks,,,17,17,399,572,4282,30,11,2022
+15,QB,Tua Tagovailoa,Miami Dolphins,,,13,13,259,400,3548,25,8,2022
+1,QB,Lamar Jackson,Baltimore Ravens,49.0,0.98,16,16,307,457,3678,24,7,2023
+2,QB,Dak Prescott,Dallas Cowboys,0.0,0.0,17,17,410,590,4516,36,9,2023
+4,QB,Brock Purdy,San Francisco 49ers,0.0,0.0,16,16,308,444,4280,31,11,2023
+5,QB,Josh Allen,Buffalo Bills,1.0,0.02,17,17,385,579,4306,29,18,2023
+7,QB,Patrick Mahomes,Kansas City Chiefs,0.0,0.0,16,16,401,597,4183,27,14,2023
+8,QB,Matthew Stafford,Los Angeles Rams,0.0,0.0,15,15,326,521,3965,24,11,2023
+9,QB,C.J. Stroud,Houston Texans,0.0,0.0,15,15,319,499,4108,23,5,2023
+1,QB,Josh Allen,Buffalo Bills,27.0,0.5510204081632653,17,17,307,483,3731,28,6,2024
+2,QB,Lamar Jackson,Baltimore Ravens,22.0,0.4489795918367347,17,17,316,474,4172,41,4,2024
+4,QB,Joe Burrow,Cincinnati Bengals,0.0,0.0,17,17,460,652,4918,43,9,2024
+5,QB,Jared Goff,Detroit Lions,0.0,0.0,17,17,390,539,4629,37,12,2024
+6,QB,Patrick Mahomes,Kansas City Chiefs,0.0,0.0,16,16,392,581,3928,26,11,2024
+7,QB,Jayden Daniels,Washington Commanders,0.0,0.0,17,17,331,480,3568,25,9,2024
+9,QB,Justin Herbert,Los Angeles Chargers,0.0,0.0,17,17,332,504,3870,23,3,2024
+10,QB,Sam Darnold,Minnesota Vikings,0.0,0.0,17,17,361,545,4319,35,12,2024
+11,QB,Baker Mayfield,Tampa Bay Buccaneers,0.0,0.0,17,17,407,570,4500,41,16,2024
+1,QB,Matthew Stafford,Los Angeles Rams,24.0,0.48,17,17,388,597,4707,46,8,2025
+2,QB,Drake Maye,New England Patriots,23.0,0.46,17,17,354,492,4394,31,8,2025
+3,QB,Josh Allen,Buffalo Bills,2.0,0.04,17,17,319,460,3668,25,10,2025
+5,QB,Trevor Lawrence,Jacksonville Jaguars,0.0,0.0,17,17,341,560,4007,29,12,2025
+6,QB,Justin Herbert,Los Angeles Chargers,1.0,0.02,16,16,340,512,3727,26,13,2025
